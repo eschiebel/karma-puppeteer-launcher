@@ -1,0 +1,18 @@
+{
+  "name": "karma-puppeteer-launcher",
+  "version": "0.0.1",
+  "description": "karma puppeteer browser plugin, with access to the puppeteer instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-launcher"
+  ],
+  "author": "Ed Schiebel",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^0.12.0"
+  }
+}
