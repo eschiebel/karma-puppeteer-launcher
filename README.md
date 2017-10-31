@@ -1,6 +1,6 @@
 # karma-puppeteer-launcher
 
-A karm launcher for puppeteer. 
+A karma launcher for puppeteer. 
 
 The goal here is go have a launcher that makes the instance of the puppeteer Page,
 or at least a set of Page functions, visible to the tests. In particular, I want 
